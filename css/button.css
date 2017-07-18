@@ -1,0 +1,15 @@
+.button {
+  display: block;
+  text-align: center;
+  margin: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px 0px;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  border: 1px solid #d7d5cd;
+}
